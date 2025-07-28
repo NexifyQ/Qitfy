@@ -1,4 +1,4 @@
-# DeenKit 🧰
+# Qitfy 🧰
 
 **DeenKit** is a powerful local development environment for PHP, Node.js, and full-stack apps — built with modern technologies.
 .
@@ -14,6 +14,6 @@
 - ✉️ Built-in Mailpit for email testing
 - 🌗 Dark Mode, Light Mode, System Theme
 - 🖥️ Fully offline, fast & lightweight
-- 🧩 Electron-based desktop app — Windows/Linux (macOS planned)
+- 🧩 Desktop app — Windows/Linux (macOS planned)
   
 
